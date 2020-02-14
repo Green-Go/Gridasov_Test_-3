@@ -1,0 +1,14 @@
+ru\Gridasov\Haulmont\Cofiguration\JPA.class
+ru\Gridasov\Haulmont\Cofiguration\Web.class
+ru\Gridasov\Haulmont\ui\Recipes.class
+ru\Gridasov\Haulmont\Users\Doctor.class
+ru\Gridasov\Haulmont\Cofiguration\Web$Test3Listener.class
+ru\Gridasov\Haulmont\Cofiguration\Web$Test3Servlet.class
+ru\Gridasov\Haulmont\ui\Doctors.class
+ru\Gridasov\Haulmont\ui\ProjectUi.class
+ru\Gridasov\Haulmont\Users\Recipe.class
+ru\Gridasov\Haulmont\Users\RecipesRepository.class
+ru\Gridasov\Haulmont\Users\Patient.class
+ru\Gridasov\Haulmont\Users\PatientsRepository.class
+ru\Gridasov\Haulmont\ui\Patients.class
+ru\Gridasov\Haulmont\Users\DoctorsRepository.class
